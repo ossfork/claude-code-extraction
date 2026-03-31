@@ -28,9 +28,10 @@ Anthropic publishes Claude Code as a bundled JavaScript CLI on npm. The publishe
 ### Clone this repository
 
 ```bash
-git clone git@github.com:chatgptprojects/claude-code.git
-cd claude-code
+git clone https://github.com/RadishoNeo/Claude-Code.git
+cd Claude-Code
 ```
+
 
 ### Or extract it yourself from npm
 
